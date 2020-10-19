@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: October 19th, 2020
-##### python regex)
+##### python regex
 
 **Today's Progress**: learnt regular expressions on automating boring stuff in python
 
