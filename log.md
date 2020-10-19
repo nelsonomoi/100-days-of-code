@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 19th, 2020
+##### python regex)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: learnt regular expressions on automating boring stuff in python
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** There was much to learn and practice at the same time still not confident enough to write complex expressions revisiting them again tommorow
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [https://github.com/nelsonomoi/100-days-of-code]
 
