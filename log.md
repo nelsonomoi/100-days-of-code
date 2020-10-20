@@ -9,3 +9,8 @@
 
 **Link to work:** [https://github.com/nelsonomoi/100-days-of-code]
 
+### Day 1: october 20th 2020
+#### Python regex continued
+** Today's progress**: continued with regular expression now i have a bit of confidence in writing complex and meaningful regular expressions
+** Thoughts:** There is much to learn and practice on regular expression so as to write cleen code especially on validation and search algorithims
+
