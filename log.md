@@ -14,3 +14,13 @@
 ** Today's progress**: continued with regular expression now i have a bit of confidence in writing complex and meaningful regular expressions
 ** Thoughts:** There is much to learn and practice on regular expression so as to write cleen code especially on validation and search algorithims
 
+### Day 2: october 20th 2020
+#### Python regex continued
+** Today's progress**: writing a program to validate if email strenght is valid
+** Thoughts:** applying regular expression in solving common problem i encounter as a developer feels sweet
+
+### Day 3: october 20th 2020
+#### dynamic array hackerrank challenge
+** Today's progress**: tried solving the hackerrank challenge on arrays
+** Thoughts:** Was dissappointed when i could not understand the problem to be able to solve it
+
