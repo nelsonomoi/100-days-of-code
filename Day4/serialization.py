@@ -11,3 +11,8 @@ import simplejson as json
 
 json_string = json.dumps([1, 2, 3, "a", "b", "c"])
 print(json_string)
+
+# load() will load JSON data from a file-like object. We use this method when we’re reading in data from
+# a file-like object.
+#
+# loads() will load JSON data from a string containing JSON-encoded data.
