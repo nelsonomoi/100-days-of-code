@@ -24,3 +24,8 @@
 ** Today's progress**: tried solving the hackerrank challenge on arrays
 ** Thoughts:** Was dissappointed when i could not understand the problem to be able to solve it
 
+### Day 4: october 20th 2020
+#### python json serilization
+** Today's progress**: tried to recap on json serilization in python
+** Thoughts:** wanted to do something simple and very intresting. I work with json data on a daily basis writing programmings 
+that are data oriented. Hackerrank challenge now comming for you
