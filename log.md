@@ -29,3 +29,11 @@
 ** Today's progress**: tried to recap on json serilization in python
 ** Thoughts:** wanted to do something simple and very intresting. I work with json data on a daily basis writing programmings 
 that are data oriented. Hackerrank challenge now comming for you
+
+### Day 5: October 19th, 2020
+##### Set operation
+
+**Today's Progress**: practised set operations in python
+
+**Thoughts:** Gaining confidence in softare development is very important and it start by exploring the capability of the tooling you are using so that you can use to best execute your tasks
+
