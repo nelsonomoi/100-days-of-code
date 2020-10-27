@@ -67,3 +67,52 @@ od['b'] = 2
 od['c'] = 3
 
 print(od)
+
+from collections import deque
+
+# is a list optimized for inserting and removing items
+deq_list = ['a','b','c']
+deq = deque(deq_list)
+print(deq)
+
+# add element to the right
+deq.append('d')
+
+# add element to the left
+deq.appendleft('e')
+
+print(deq)
+
+deq.pop()
+deq.popleft()
+
+print(deq)
+
+# clear all items on the list
+deq.clear()
+
+print(deq)
+
+# ChainMap(): combine several dictionaries or mapping
+from collections import ChainMap
+
+dict1 = { 'a': 1, 'b': 2}
+dict2 = { 'c': 3, 'd': 4}
+
+chain_map = ChainMap(dict1,dict2)
+print(chain_map.maps)
+dict2['d'] = 5
+
+print(chain_map['d'])
+
+# getting keys and values from chainmap
+print(list(chain_map.keys()))
+print(list(chain_map.values()))
+
+from collections import namedtuple
+
+Student = namedtuple('Student','fname, lname, age')
+s1 = Student('John','Clarke','13')
+print(s1)
+
+# creating a namedtuple using _make
