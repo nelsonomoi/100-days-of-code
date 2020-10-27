@@ -38,9 +38,16 @@ that are data oriented. Hackerrank challenge now comming for you
 **Thoughts:** Gaining confidence in softare development is very important and it start by exploring the capability of the tooling you are using so that you can use to best execute your tasks
 
 ### Day 6: October 26th, 2020
-##### Set operation
+##### collections module
 
 **Today's Progress**: collections module in python
 
 **Thoughts:** From rest weekend now exercised collections module touched on Counter() with its three other functions ie elements(), most_common() , substract() , defaultdict() and OrderedDict()
+
+### Day 7: October 27th, 2020
+##### collections module continued
+
+**Today's Progress**: collections module in python
+
+**Thoughts:** Finalized on most common methods used in collections module ie deque, namedtuple and chainmap
 
