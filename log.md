@@ -71,5 +71,5 @@ that are data oriented. Hackerrank challenge now comming for you
 
 **Today's Progress**: learn't on binary search using bisect python module
 
-**Thoughts:** looking forward to something great after covering a wide area of intermediate python
+**Thoughts:** looking forward to something great after covering a wide area of intermediate python tutorial
 
