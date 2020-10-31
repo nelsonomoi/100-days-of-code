@@ -51,3 +51,10 @@ that are data oriented. Hackerrank challenge now comming for you
 
 **Thoughts:** Finalized on most common methods used in collections module ie deque, namedtuple and chainmap
 
+### Day 8: October 28th, 2020
+##### codewars challenge
+
+**Today's Progress**: solved codewar challenge on strings ie finding anagram of a given word in a list
+
+**Thoughts:** Just realized how much i have learnt so far but couldn't quickly figure out the right approach to solve this challenge. Am glad though i finally did.
+
