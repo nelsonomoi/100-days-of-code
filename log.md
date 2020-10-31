@@ -58,3 +58,18 @@ that are data oriented. Hackerrank challenge now comming for you
 
 **Thoughts:** Just realized how much i have learnt so far but couldn't quickly figure out the right approach to solve this challenge. Am glad though i finally did.
 
+### Day 9: October 29th, 2020
+##### Youtube Data API
+
+**Today's Progress**: wrote a python youtube data collector for a comming project on sentiment analysis
+
+**Thoughts:** it is really nice to write few lines of code for your favourite programing language
+
+
+### Day 10: October 21th, 2020
+##### Binary search using bisect module
+
+**Today's Progress**: learn't on binary search using bisect python module
+
+**Thoughts:** looking forward to something great after covering a wide area of intermediate python
+
